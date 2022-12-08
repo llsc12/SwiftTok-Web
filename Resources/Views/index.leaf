@@ -1,12 +1,16 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>#(title)</title>
-</head>
-
-<body>
-  <h1>#(title)</h1>
-</body>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="/styles.css">
+        <title>SwiftTok</title>
+    </head>
+    <body>
+        <div class="centre bobbing">
+            <div class="centre-align">
+                <h1>SwiftTok</h1>
+                <p>SwiftTok is a Swift based TikTok Video Data API and embed fixer service.</p>
+            </div>
+        </div>
+    </body>
 </html>
