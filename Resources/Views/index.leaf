@@ -1,16 +1,31 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="/styles.css">
-        <title>SwiftTok</title>
-    </head>
-    <body>
-        <div class="centre bobbing">
-            <div class="centre-align">
-                <h1>SwiftTok</h1>
-                <p>SwiftTok is a Swift based TikTok Video Data API and embed fixer service.</p>
-            </div>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles.css">
+    <title>SwiftTok</title>
+    <link href="/fa/css/all.css" rel="stylesheet">
+    <link href="/fa/css/free.css" rel="stylesheet">
+  </head>
+  <body>
+    <div>
+      <div class="centre bobbing">
+        <div class="centre-align">
+          <h1>SwiftTok</h1>
+          <p>SwiftTok is a Swift based TikTok Video Data API and embed fixer service.</p>
+          <div class="buttons-row-bg horizontal-items">
+            <button class="button" onclick="location.href='https://github.com/llsc12';">
+              <i class="fa-brands fa-github"></i>
+            </button>
+            <button class="button" onclick="location.href='https://patreon.com/llsc12';">
+              <i class="fa-brands fa-patreon"></i>
+            </button>
+            <button class="button" onclick="location.href='/info';">
+              <i class="fa-solid fa-circle-info"></i>
+            </button>
+          </div>
         </div>
-    </body>
+      </div>
+    </div>
+  </body>
 </html>
